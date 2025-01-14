@@ -1,1 +1,6 @@
 flask
+pytest
+flake8
+pydantic
+pytest-mock
+faker
